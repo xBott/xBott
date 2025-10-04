@@ -10,3 +10,9 @@ My Skills include:
 - **Databases**: MySQL, MariaDB, MongoDB, Redis.
 - **Other technologies**: Kafka, RabbitMQ, JWT, OrmLite.
 - **DevOps**: Linux administation, CI/CD (GitHub actions).
+
+
+Key Projects:
+- **Lumen** - Message Queue in Kotlin
+- **Breeze** - Modular framework for different purposes in Java
+- **The Light** - Minecraft server network
