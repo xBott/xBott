@@ -16,3 +16,5 @@ Key Projects:
 - **Lumen** - Message Queue in Kotlin
 - **Breeze** - Modular framework for different purposes in Java
 - **The Light** - Minecraft server network
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xBott)](https://github.com/anuraghazra/github-readme-stats)
