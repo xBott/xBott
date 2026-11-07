@@ -1,12 +1,12 @@
 # xBott 👋
-
-Hi! My name is Roman.
 **Software developer** and **Blockbench 3d artist**
-Mostly I work with backend, applications and web technologies. Familiar with minecraft server and discord bot development.
 
-My Skills include:
+Hi! My name is Roman. I've been engaged in software development for about 5 years. My primary areas of interest are backend, high-load systems, machine learning and artificial intelligence. Also, I'm familiar with minecraft server and discord bot development.
+
+## My Skills include:
 - **Java**: Paper, Spring (MVC, Cloud, Security), JPA, JDA, Reflection.
-- **Kotlin**: Ktor, Ktorm.
+- **Kotlin**: Ktor, Koin, Exposed, Ktorm.
+- **Python**: PyTorch, Pandas, Scikit-learn.
 - **Databases**: MySQL, MariaDB, MongoDB, Redis.
-- **Other technologies**: Kafka, RabbitMQ, JWT, OrmLite.
-- **DevOps**: Linux administation, CI/CD (GitHub actions).
+- **Message Brokers**: Kafka, RabbitMQ.
+- **DevOps**: Linux, Bash, CI/CD (GitHub actions), ELK Stack.
